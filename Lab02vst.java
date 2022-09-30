@@ -8,7 +8,11 @@ public class Lab02vst {
         System.out.println("by yesterday's confusion");
         System.out.println();
         System.out.println("Bewilderment + Exposure + = Obvious");
-        System.out.println();
+        System.out.println("# ####  ####\t #####  #### # #    #  ##### ####");
+        System.out.println("# #  #  #  #\t #   #  #  # # # #  #    #   #");
+        System.out.println("# #  #  #  #\t #####  #  # # #  # #    #   #### ");
+        System.out.println("# #  #  #  #\t #      #  # # #   ##    #       #  ");
+        System.out.println("# ####  ####\t #      #### # #    #    #   ####");
 
     }
 
